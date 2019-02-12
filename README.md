@@ -1,4 +1,4 @@
-# bitcoin-js guide
+# Bitcoin Javascript Guide
 
 https://bitcoin-js.gitbook.io/guide/
 
