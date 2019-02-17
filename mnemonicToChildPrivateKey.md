@@ -1,6 +1,6 @@
 How to create a child private key from a Mnemonic 
 
-```
+```javascript
 const bip32 = require('bip32')
 const bip39 = require('bip39')
 
